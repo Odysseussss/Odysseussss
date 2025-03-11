@@ -2,7 +2,7 @@
 
 **`Data Scientist`**
 
-Formado em Analise e desenvolvimento de sistemas e atualmente sou estudante de Data Science. Trabalho como Analista de dados.
+Formado em Análise e desenvolvimento de sistemas e atualmente sou estudante de Data Science. Trabalho como Analista de dados.
 
 ### 🤖 Linguagens e Tecnologias
 
