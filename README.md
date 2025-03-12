@@ -57,17 +57,3 @@ Formado em Análise e desenvolvimento de sistemas e atualmente sou estudante de 
 />
 
 <br/>
-<p>
-<div style="display: flex; gap: 8px;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Odysseussss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odysseussss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
-</p>
