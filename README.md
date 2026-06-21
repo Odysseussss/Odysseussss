@@ -18,7 +18,7 @@
 ---
 
 ## 🚀 Sobre Mim
-Com 3 anos de experiencia como analista nos setores de distribuição, telecomunicações e tecnologia, atuo de ponta a ponta na engenharia e análise de dados. Sou especialista no ecossistema **Microsoft Fabric** e **Power BI**, construindo pipelines performáticos e dashboards de alto impacto com forte aplicação de **UX/UI** e **Data Storytelling**. 
+Com 3 anos de experiência como analista nos setores de distribuição, telecomunicações e tecnologia, atuo de ponta a ponta na engenharia e análise de dados. Sou especialista no ecossistema **Microsoft Fabric** e **Power BI**, construindo pipelines performáticos e dashboards de alto impacto com forte aplicação de **UX/UI** e **Data Storytelling**. 
 
 * 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas.
 * 💼 **Atuação Atual:** Analista de Dados Pleno na **Okajima Distribuidora**.
