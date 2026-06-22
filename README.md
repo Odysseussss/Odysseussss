@@ -34,6 +34,9 @@ Vamos concordar que existem limitações nos visuais do Power BI, por isso desen
 Desenvolvi do zero uma plataforma ponta a ponta para automatizar o cadastro e a apuração de campanhas comerciais voltadas. O projeto serve para o time de trade Trade Marketing cadastrar a campanha e o time comercial visualizar a apuração em tempo real no dashboard que eu desenvolvi no PowerBI. 
 * **Resultados:** Forneceu para a gerência uma visão clara de como a equipe de vendas realmente estava performando. Matou os processos manuais e repetitivos que travavam o time de Trade Marketing. Trouxe agilidade na apuração dos dados e transparência total no fluxo de pagamentos e premiações.
 
+### ⚙️ [Portal de Estudos Fabric](https://github.com/Odysseussss/-Portal-de-Estudos-Fabric). ➡️ [Acesse aqui](https://estudosfabric.streamlit.app/)
+
+Criei o portal para me ajudar na preparação pro exame de engenheiro associado microsoft Fabric. A plataforma conta com um modo kambam de tarefas e questões geradas no modelo llama-3.3-70b-versatile.
 ---
 
 ## 📬 Vamos nos conectar?
