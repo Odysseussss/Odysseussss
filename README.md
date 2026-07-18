@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -12,31 +13,33 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Odysseussss&theme=tokyonight" alt="GitHub Streak" height="140px"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Odysseussss&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Streak" height="140px"/>
 </div>
 
 ---
 
 ## 🚀 Sobre Mim
-Com 3 anos de experiência como analista nos setores de distribuição, telecomunicações e tecnologia, atuo de ponta a ponta na engenharia e análise de dados. Sou especialista no ecossistema **Microsoft Fabric** e **Power BI**, construindo pipelines performáticos e dashboards de alto impacto com forte aplicação de **UX/UI** e **Data Storytelling**. 
+Com 3 anos de experiência como analista de dados nos setores de distribuição, telecomunicações e tecnologia, atuo de ponta a ponta na engenharia e análise de dados. Sou especialista no ecossistema *Microsoft Fabric* e *Power BI*, trabalho principalmente com SQL e Python construindo pipelines performáticos e dashboards de alto impacto com forte aplicação de *UX/UI* e *Data Storytelling*. 
 
-* 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas.
-* 💼 **Atuação Atual:** Analista de Dados Pleno na **Okajima Distribuidora**.
+* 🎓 *Formação Superior:* Graduado em Análise e Desenvolvimento de Sistemas.
+* 💼 *Atuação Atual:* Analista de Dados Pleno na *Okajima Distribuidora*.
 
 ---
 
 ## 🎯 Projetos em Destaque
 
-### 🛠️ [OdysViz](https://github.com/Odysseussss/odysviz)
-Vamos concordar que existem limitações nos visuais do Power BI, por isso desenvolvi o **OdysViz**: um site voltado para a criação e customização de visuais avançados utilizando HTML no *HTML Content*. O projeto disponibiliza templates prontos e flexíveis, permitindo que desenvolvedores de BI ultrapassem as barreiras de design padrão do Power BI e entreguem interfaces ricas e dinâmicas.
-
 ### 📈 Plataforma de Campanhas Comerciais (Okajima Distribuidora)
-Desenvolvi do zero uma plataforma ponta a ponta para automatizar o cadastro e a apuração de campanhas comerciais voltadas. O projeto serve para o time de trade Trade Marketing cadastrar a campanha e o time comercial visualizar a apuração em tempo real no dashboard que eu desenvolvi no PowerBI. 
-* **Resultados:** Forneceu para a gerência uma visão clara de como a equipe de vendas realmente estava performando. Matou os processos manuais e repetitivos que travavam o time de Trade Marketing. Trouxe agilidade na apuração dos dados e transparência total no fluxo de pagamentos e premiações.
+Como desenvolvedor de BI, percebi um gargalo no processo de apuração: o time recebia as mecânicas de campanhas em arquivos de Excel, o que exigia muito tempo para normalizar os dados antes de levá-los ao PowerBI. Para resolver isso, desenvolvi do zero — utilizando TypeScript, Node.js e Supabase (via Postgres connector) — um portal web onde a equipe de Trade Marketing pode criar e editar campanhas de forma automatizada. Os resultados são consumidos diretamente em um dashboard de apurações que criei no PowerBI. Esse projeto também deu maior visibilidade aos dados para a equipe de Vendas, entregando aos supervisores um dashboard focado em dados de pagamentos.
 
-### ⚙️ [Portal de Estudos Fabric](https://github.com/Odysseussss/-Portal-de-Estudos-Fabric). ➡️ [Acesse aqui](https://estudosfabric.streamlit.app/)
+### ⚙️ [Portal de Estudos Fabric](https://github.com/Odysseussss/-Portal-de-Estudos-Fabric)
+➡️ [Acesse aqui](https://estudosfabric.streamlit.app/)
 
-Criei o portal para me ajudar na preparação pro exame de engenheiro associado microsoft Fabric. A plataforma conta com um modo kambam de tarefas e questões geradas no modelo llama-3.3-70b-versatile.
----
+Criei com python um portal web usando streamlit que gera através de um LLM llama-3.3-70b-versatile questões para me ajudar no exame de Engenheiro Associado Microsoft Fabric. Também conta com módulo Kambam para tasks.
+
+### 🛠️ [OdysViz](https://github.com/Odysseussss/odysviz)
+➡️ [Acesse aqui](https://estudosfabric.streamlit.app/)
+
+Vamos concordar que existem limitações nos visuais do Power BI, por isso desenvolvi o OdysViz: um site voltado para a criação e customização de visuais avançados utilizando HTML no HTML Content. O projeto disponibiliza templates prontos e flexíveis, permitindo que desenvolvedores de BI ultrapassem as barreiras de design padrão do Power BI e entreguem interfaces ricas e dinâmicas.
 
 ## 📬 Vamos nos conectar?
 
