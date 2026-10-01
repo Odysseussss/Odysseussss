@@ -29,17 +29,17 @@ Com 3 anos de experiência como analista de dados nos setores de distribuição,
 ## 🎯 Projetos em Destaque
 
 ### 📈 Plataforma de Campanhas Comerciais (Okajima Distribuidora)
-Como desenvolvedor de BI, percebi um gargalo no processo de apuração: o time recebia as mecânicas de campanhas em arquivos de Excel, o que exigia muito tempo para normalizar os dados antes de levá-los ao PowerBI. Para resolver isso, desenvolvi do zero — utilizando TypeScript, Node.js e Supabase (via Postgres connector) — um portal web onde a equipe de Trade Marketing pode criar e editar campanhas de forma automatizada. Os resultados são consumidos diretamente em um dashboard de apurações que criei no PowerBI. Esse projeto também deu maior visibilidade aos dados para a equipe de Vendas, entregando aos supervisores um dashboard focado em dados de pagamentos.
+Como desenvolvedor de BI, percebi um gargalo no processo de apuração: o time recebia as mecânicas de campanhas em arquivos de Excel, o que exigia muito tempo para normalizar os dados antes de levá-los ao PowerBI. Para resolver isso, desenvolvi do zero — utilizando TypeScript, Node.js e Oracle (via Oracle Instant Client) — um portal web onde a equipe de Trade Marketing pode criar e editar campanhas de forma automatizada. Os resultados são consumidos diretamente em um dashboard de apurações que criei no PowerBI. Esse projeto também deu maior visibilidade aos dados para a equipe de Vendas, entregando aos supervisores um dashboard focado em dados de pagamentos.
 
 ### ⚙️ [Portal de Estudos Fabric](https://github.com/Odysseussss/-Portal-de-Estudos-Fabric)
 ➡️ [Acesse aqui](https://estudosfabric.streamlit.app/)
 
-Criei com python um portal web usando streamlit que gera através de um LLM llama-3.3-70b-versatile questões para me ajudar no exame de Engenheiro Associado Microsoft Fabric. Também conta com módulo Kambam para tasks.
+Criei com python um portal web usando streamlit que gera através do LLM llama-3.3-70b-versatile questões para me ajudar no exame de Engenheiro Associado Microsoft Fabric. Também conta com módulo Kambam para tasks.
 
 ### 🛠️ [OdysViz](https://github.com/Odysseussss/odysviz)
 ➡️ [Acesse aqui](https://estudosfabric.streamlit.app/)
 
-Vamos concordar que existem limitações nos visuais do Power BI, por isso desenvolvi o OdysViz: um site voltado para a criação e customização de visuais avançados utilizando HTML no HTML Content. O projeto disponibiliza templates prontos e flexíveis, permitindo que desenvolvedores de BI ultrapassem as barreiras de design padrão do Power BI e entreguem interfaces ricas e dinâmicas.
+Vamos concordar que existem limitações nos visuais do Power BI, por isso desenvolvi o OdysViz: um site voltado para a criação e customização em real-time de visuais avançados utilizando HTML no HTML Content. O projeto disponibiliza templates prontos e flexíveis, permitindo que desenvolvedores de BI ultrapassem as barreiras de design padrão do Power BI e entreguem interfaces ricas e dinâmicas.
 
 ## 📬 Vamos nos conectar?
 
